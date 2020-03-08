@@ -562,3 +562,5 @@ print("A: 1, B: 1 | Output: {0}".format(full_adder(1, 1,1)))
 
 
 print(ALU(0,1,0,1))
+
+
