@@ -358,10 +358,19 @@ print("A: 1, B: 1 | Output: {0}".format(YAND_gate(1, 1)))
 
 -------------------------------------------------------------------------------------------
 
-references:
+references://to-do 
 
 http://web.mit.edu/6.111/www/f2005/tutprobs/synthesis.html
 
+http://www.ee.surrey.ac.uk/Projects/CAL/digital-logic/gatesfunc/index.html
+
+https://www.khanacademy.org/computing/ap-computer-science-principles/computers-101/logic-gates-and-circuits/a/logic-gates
+
+https://www.coursera.org/learn/digital-systems
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/c4/c4s2/c4s2v2/useful-logic-gates-5-56-/
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/c4/c4s2/c4s2v8/gates-and-boolean-logic/
 
 
 --------------------------------------------------------------------------------------------
